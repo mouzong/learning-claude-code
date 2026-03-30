@@ -2,6 +2,11 @@
 
 > Mastering **Claude by Anthropic** through hands-on projects, real-world use cases, and advanced AI engineering concepts.
 
+<br>
+
+![Claude Banner](./images/claude-code-banner.png)
+
+
 
 ## 🌍 About This Repository
 
@@ -28,37 +33,37 @@ The goal is simple:
 
 This journey is structured into **6 progressive phases**:
 
-### 🟢 Phase 1 — Foundations
+### 🟢 Phase 1 - Foundations
 
 * AI Fluency (4D Framework)
 * Prompt Engineering Basics
 * Understanding Claude capabilities
 
-### 🟡 Phase 2 — Professional Usage
+### 🟡 Phase 2 - Professional Usage
 
 * Document analysis (logs, PDFs, specs)
 * Writing technical documentation
 * Multi-step workflows
 
-### 🔵 Phase 3 — Advanced Prompting
+### 🔵 Phase 3 - Advanced Prompting
 
 * Role prompting
 * Few-shot prompting
 * Structured outputs
 
-### 🔴 Phase 4 — API & Integration
+### 🔴 Phase 4 - API & Integration
 
 * Claude API usage
 * Backend integrations (Java, Node.js, Python)
 * Automation workflows
 
-### 🟣 Phase 5 — MCP & Agents
+### 🟣 Phase 5 - MCP & Agents
 
 * Model Context Protocol (MCP)
 * Subagents & orchestration
 * AI-powered systems
 
-### ☁️ Phase 6 — Enterprise (Optional)
+### ☁️ Phase 6 - Enterprise (Optional)
 
 * Cloud integrations (AWS Bedrock, Vertex AI)
 * Scaling & security
@@ -81,8 +86,6 @@ This journey is structured into **6 progressive phases**:
 ├── MCP/
 └── ASSETS/
 ```
-
-
 
 ## 🧠 Notes
 
