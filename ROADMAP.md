@@ -3,7 +3,7 @@
 This roadmap is designed to help engineers, DevOps practitioners, and builders master **Claude by Anthropic** and transition from basic usage to advanced AI-powered systems.
 
 
-## 🧭 Phase 1 — Foundations (AI Fluency & Core Concepts)
+## 🧭 Phase 1 - Foundations (AI Fluency & Core Concepts)
 
 **Goal:** Understand how to think and work effectively with AI.
 
@@ -25,7 +25,7 @@ This roadmap is designed to help engineers, DevOps practitioners, and builders m
 * Notes on AI mental models
 
 
-## 🟡 Phase 2 — Professional Usage (Productivity & Workflows)
+## 🟡 Phase 2 - Professional Usage (Productivity & Workflows)
 
 **Goal:** Use Claude as a daily productivity and engineering assistant.
 
@@ -48,7 +48,7 @@ This roadmap is designed to help engineers, DevOps practitioners, and builders m
 * Create Confluence-ready documentation
 
 
-## 🔵 Phase 3 — Advanced Prompt Engineering
+## 🔵 Phase 3 - Advanced Prompt Engineering
 
 **Goal:** Move from basic prompting to structured and reliable outputs.
 
@@ -66,7 +66,7 @@ This roadmap is designed to help engineers, DevOps practitioners, and builders m
 
 
 
-## 🔴 Phase 4 — API & Integration (Builder Level)
+## 🔴 Phase 4 - API & Integration (Builder Level)
 
 **Goal:** Build real applications powered by Claude.
 
@@ -88,7 +88,7 @@ This roadmap is designed to help engineers, DevOps practitioners, and builders m
 * Documentation generator
 
 
-## 🟣 Phase 5 — Agents & MCP (Expert Level)
+## 🟣 Phase 5 - Agents & MCP (Expert Level)
 
 **Goal:** Build intelligent, context-aware systems.
 
@@ -111,7 +111,7 @@ This roadmap is designed to help engineers, DevOps practitioners, and builders m
 * Multi-agent workflow system
 
 
-## ☁️ Phase 6 — Enterprise Integrations (Optional)
+## ☁️ Phase 6 - Enterprise Integrations (Optional)
 
 **Goal:** Deploy Claude in enterprise environments.
 
